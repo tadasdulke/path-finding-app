@@ -1,0 +1,8 @@
+.pannel {
+    width: 40%;
+    background-color:#F1F1F1;
+    border-radius:2px;
+    border:1px solid rgb(219, 219, 219);
+    margin:10px auto;
+    text-align: center;
+}

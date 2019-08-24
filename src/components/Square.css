@@ -1,0 +1,50 @@
+.square {
+    overflow:hidden;
+    width: 45px;
+    height: 45px;
+    color:black;
+    border:0.5px solid rgb(209, 209, 209);
+    padding:5px;
+}
+
+.square-filled {
+    background-color: rgb(192, 191, 191);
+}
+
+.square:hover {
+    background-color: #F3F3F3;
+}
+
+.square:active {
+    background-color: #E3E3E3;
+}
+
+.square-clear {
+    background-color: #FEFEFE;
+}
+
+.square-start {
+    background-color: #7BD328;
+    cursor: pointer;
+}
+
+.square-start:hover {
+    background-color: #7BD328;
+}
+
+.square-end {
+    background-color:#5E9834;
+    cursor: pointer;
+}
+
+.square-end:hover {
+    background-color:#5E9834;
+}
+
+.square-path {
+    background-color: #F9A71F;
+}
+
+.square-path:hover {
+    background-color: #F9A71F;
+}

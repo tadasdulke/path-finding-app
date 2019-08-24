@@ -1,0 +1,8 @@
+.table {
+    width: auto;
+    height: auto;
+    color:white;
+    font-size: 3em;
+    table-layout: fixed;
+    margin:auto;
+}

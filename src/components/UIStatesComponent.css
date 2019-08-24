@@ -1,0 +1,46 @@
+.container {
+    color:gray;
+    font-size: 15px;
+    margin:auto;
+}
+
+label {
+    float:left;
+    padding: 5px;
+    text-align: center;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    border:0.5px solid rgb(209, 209, 209);
+    margin:10px;
+}
+
+.box-filled {
+    background-color: rgb(192, 191, 191);
+}
+
+.box-hover {
+    background-color: #F3F3F3;
+}
+
+.box-down {
+    background-color: #E3E3E3;
+}
+
+.box-clear {
+    background-color: #FEFEFE;
+}
+
+.box-start {
+    background-color: #7BD328;
+}
+
+.box-end {
+    background-color:#5E9834;
+}
+
+.box-shortest {
+    background-color: #F9A71F;
+}
