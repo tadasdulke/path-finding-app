@@ -1,7 +1,7 @@
 # Path Finding App
 A path finding app created with React.js and Redux based on breadth first search algorithm in a grid based environment.
 
-Check out live version: https://tadas552.github.io/path-finding-app/
+Check out live version: https://tadasdulke.github.io/path-finding-app/
 
 Screenshot:
 ![Screenshot](Capture.PNG)
